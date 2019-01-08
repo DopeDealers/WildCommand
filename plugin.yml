@@ -1,0 +1,10 @@
+name: WildCommand
+main: net.dopedealers.phil.Registry
+author: DopeDealers
+version: 1.0.0-v2
+depends: [Vault]
+description: WildCommand
+
+commands:
+  wild:
+    aliase: [free]
